@@ -8,13 +8,24 @@ print(input_number1, input_number2)
 def add_number(input_number1, input_number2):
     return input_number1 + input_number2
 
+<<<<<<< HEAD
 
 #Create a function called subtract_number
 def subtract_number(input_number1, input_number2):
     return input_number1 - input_number2
 
+=======
+>>>>>>> 390beea45fc48c835b21ed0962112d9934618cdf
 
-#Create a function called multiply_number
+    return input_number1  input_number2
+
+def multiply_number(input_number1, input_number2):
+    return input_number1 * input_number2
+
 
 #Create a function called divide_number
+def divide_number(input_number1, input_number2):
+    return input_number1 / input_number2
+
+
 
