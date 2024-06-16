@@ -9,11 +9,14 @@ def add_number(input_number1, input_number2):
     return input_number1 + input_number2
 
 
-    return input_number1  input_number2
-
 #Create a function called multiply_number
+def multiply_number(input_number1, input_number2):
+    return input_number1 * input_number2
+
 
 #Create a function called divide_number
 def divide_number(input_number1, input_number2):
     return input_number1 / input_number2
+
+
 
