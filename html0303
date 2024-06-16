@@ -1,0 +1,20 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>About Us</title>
+</head>
+<body>
+    <h1>About the Calculator App Project</h1>
+    <p>Welcome to the project! We are building a calculator app with four modules: Add, Subtract, Multiply, and Divide.</p>
+    <p>Here are the team members and their respective modules:</p>
+    <ul>
+        <li>Jayanti: Add module</li>
+        <li>Anuska: Subtract module</li>
+        <li>Rajani: Multiply module</li>
+        <li>Aaki: Divide module</li>
+    </ul>
+    <p>The file you will be working on will be calculator_app.py. Happy coding!</p>
+</body>
+</html>

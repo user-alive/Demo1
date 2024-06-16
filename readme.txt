@@ -10,7 +10,7 @@ Anuska will add in the subtract module
 
 Rajani will add in the multiply module
 
-Aaki will add in the subtract module
+Aaki will add in the divide module
 
 The file you will be working on will be calculator_app.py
 
